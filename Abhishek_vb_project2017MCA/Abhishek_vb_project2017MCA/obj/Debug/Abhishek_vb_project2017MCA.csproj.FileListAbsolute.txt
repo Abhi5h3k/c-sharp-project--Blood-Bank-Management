@@ -1,0 +1,9 @@
+C:\Users\sai\Desktop\abhi\Abhishek_vb_project2017MCA\Abhishek_vb_project2017MCA\bin\Debug\Abhishek_vb_project2017MCA.exe
+C:\Users\sai\Desktop\abhi\Abhishek_vb_project2017MCA\Abhishek_vb_project2017MCA\bin\Debug\Abhishek_vb_project2017MCA.pdb
+C:\Users\sai\Desktop\abhi\Abhishek_vb_project2017MCA\Abhishek_vb_project2017MCA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sai\Desktop\abhi\Abhishek_vb_project2017MCA\Abhishek_vb_project2017MCA\obj\Debug\Abhishek_vb_project2017MCA.Form1.resources
+C:\Users\sai\Desktop\abhi\Abhishek_vb_project2017MCA\Abhishek_vb_project2017MCA\obj\Debug\Abhishek_vb_project2017MCA.Properties.Resources.resources
+C:\Users\sai\Desktop\abhi\Abhishek_vb_project2017MCA\Abhishek_vb_project2017MCA\obj\Debug\Abhishek_vb_project2017MCA.csproj.GenerateResource.Cache
+C:\Users\sai\Desktop\abhi\Abhishek_vb_project2017MCA\Abhishek_vb_project2017MCA\obj\Debug\Abhishek_vb_project2017MCA.exe
+C:\Users\sai\Desktop\abhi\Abhishek_vb_project2017MCA\Abhishek_vb_project2017MCA\obj\Debug\Abhishek_vb_project2017MCA.pdb
+C:\Users\sai\Desktop\abhi\Abhishek_vb_project2017MCA\Abhishek_vb_project2017MCA\obj\Debug\Abhishek_vb_project2017MCA.Form2.resources
