@@ -6,7 +6,7 @@ Note: Kindly link the project to a My-SQL database before any operation as Datab
 
 1.How to simply run the Application for GUI viewwing?
 >Make sure your Windows System meets the Specification required to run a C# code. 
->Simply download the File "Abhishek_vb_project2017MCA.exe"  on your Windows System and Run it.
+>Simply download the File "https://github.com/Abhi5h3k/C-sharp-project--Blood-Bank-Management/blob/master/Abhishek_vb_project2017MCA/Abhishek_vb_project2017MCA/bin/Debug/Abhishek_vb_project2017MCA.exe"  on your Windows System and Run it.
 
 2.How to Import the project in Visual Studio?
 >"http://support.objecteering.com/objecteering6.1/help/us/csharp_developer/using_visual_studio/importing_existing_vs_project.htm"
